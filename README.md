@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Rahul.
+## 👋 Hi, I’m Rahul
+- 💼 I'm a full-stack developer
 - 👀 I’m interested in Javascript
 - 🌱 I’m currently learning React and GraphQL
 <!--- - 💞️ I’m looking to collaborate on --->
